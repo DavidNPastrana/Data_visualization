@@ -1,6 +1,6 @@
 # Data Visualization Project | Tableau: [Exploring Sleep Quality: A Comparative Analysis of Occupation, Age, and Gender](https://public.tableau.com/app/profile/david.nunez2187/viz/quality_sleep_David_2/Story1?publish=yes)
 
-![Image Description](/Users/david/Desktop/IronHack/Projects/Data_visualization/images/Sleep101.jpg)
+![Image Description](images/Sleep101.jpg)
 
 
 
@@ -29,23 +29,23 @@ Based on the analysis, several conclusions can be drawn. However, it's important
 
 - It appears that the majority of people sleep properly. Around 70% of the participants in the study belong to the higher index range of 7, 8, or 9 out of 10, which indicates good sleep quality.
 
-![Image Description](/Users/david/Desktop/IronHack/Projects/Data_visualization/images/Circles.png)
+![Image Description](images/Circles.png)
 
 - There appears to be a correlation between improved sleep quality and age. However, there doesn't seem to be any significant differences in sleep quality between genders.
 
-![Image Description](/Users/david/Desktop/IronHack/Projects/Data_visualization/images/Area.png)
+![Image Description](images/Area.png)
 
 - In terms of occupations, Sales Representatives, Scientists, and Nurses have the lowest sleep quality, while Engineers, Accountants, and Teachers have the highest sleep quality.
 
-![Image Description](/Users/david/Desktop/IronHack/Projects/Data_visualization/images/Bars.png)
+![Image Description](images/Bars.png)
 
 - The incidence of insomnia and sleep apnea is higher among Sales Representatives, Scientists, and Nurses compared to the overall group, with rates of 18% and 54% respectively, compared to 6% and 10% for all groups. Again, it's important to consider the small sample size when interpreting these conclusions.
 
-![Image Description](/Users/david/Desktop/IronHack/Projects/Data_visualization/images/Pie_chart.png)
+![Image Description](images/Pie_chart.png)
 
 - Focusing specifically on Sales Representatives, Scientists, and Nurses, they show higher levels of stress, high blood pressure, and heart rate compared to the overall sample. Additionally, they seem to sleep around 50 minutes less than the overall sample.
 
-![Image Description](/Users/david/Desktop/IronHack/Projects/Data_visualization/images/groups.png)
+![Image Description](images/groups.png)
 
 You can access the Tableau website and view all the interactive visualization by clicking [here](https://public.tableau.com/app/profile/david.nunez2187/viz/quality_sleep_David_2/Story1?publish=yes)
 
